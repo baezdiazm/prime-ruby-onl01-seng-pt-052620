@@ -1,7 +1,7 @@
 # Add  code here!
 def prime(numbers)
 
-if numbers.prime?
+if numbers.prime
   true
 else
   false
