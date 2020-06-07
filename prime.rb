@@ -2,5 +2,5 @@ require prime
 
 def prime?(x)
 
-prime.first(x)
+Prime.first(x)
 end
