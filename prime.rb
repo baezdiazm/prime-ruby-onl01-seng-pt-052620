@@ -1,4 +1,4 @@
-require prime
+require Prime
 
 def prime?(x)
 
