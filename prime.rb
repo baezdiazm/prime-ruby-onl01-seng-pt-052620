@@ -5,7 +5,7 @@ if numbers.prime?
   true
 else
   false
-
+end
 
 
 end
